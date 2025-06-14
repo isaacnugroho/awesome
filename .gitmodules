@@ -1,0 +1,3 @@
+[submodule "carrot"]
+	path = carrot
+	url = git@github.com:isaacnugroho/carrot.git
